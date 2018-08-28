@@ -1,0 +1,9 @@
+fieldset{
+    display:flex;
+    flex-direction:column;
+}
+
+/* .memory{
+    display:flex;
+    flex-direction:row;
+} */
